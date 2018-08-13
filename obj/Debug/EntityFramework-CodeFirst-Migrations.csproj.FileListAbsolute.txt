@@ -1,0 +1,15 @@
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\bin\Debug\EntityFramework-CodeFirst-Migrations.exe.config
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\bin\Debug\EntityFramework-CodeFirst-Migrations.exe
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\bin\Debug\EntityFramework-CodeFirst-Migrations.pdb
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\bin\Debug\EntityFramework.dll
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\bin\Debug\EntityFramework.xml
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\obj\Debug\EntityFramework-CodeFirst-Migrations.csproj.CoreCompileInputs.cache
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\obj\Debug\EntityFramework-CodeFirst-Migrations.csproj.CopyComplete
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\obj\Debug\EntityFramework-CodeFirst-Migrations.exe
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\obj\Debug\EntityFramework-CodeFirst-Migrations.pdb
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\obj\Debug\EntityFramework-CodeFirst-Migrations.csprojAssemblyReference.cache
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\obj\Debug\EntityFramework_CodeFirst_Migrations.Migrations.InitialCreate.resources
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\obj\Debug\EntityFramework-CodeFirst-Migrations.csproj.GenerateResource.cache
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\Projeto\EntityFramework-CodeFirst-Migrations\obj\Debug\EntityFramework_CodeFirst_Migrations.Migrations.RefatoradoCategoria.resources
